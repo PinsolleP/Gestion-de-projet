@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="UoCnb0OEr2_2ruiKPXSn">
+    <mxGraphModel dx="1116" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;Triangle qualité-coût-délai&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="210" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-2" parent="1" style="triangle;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;strokeWidth=3;fillColor=light-dark(#ffffff, #ededed);" value="" vertex="1">
+          <mxGeometry height="390" width="290" x="230" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cout +" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cout -" vertex="1">
+          <mxGeometry height="30" width="60" x="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Délai&amp;nbsp; -" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Délai +" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Qualité -" vertex="1">
+          <mxGeometry height="40" width="60" x="170" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Qualité +" vertex="1">
+          <mxGeometry height="40" width="60" x="510" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#f90606, #ededed);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="310" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0nTLuiUeL63SMvC3mxYt-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Le projet Green-IT Inventory dispose d’un budget limité à 60 000 € et d’un délai de quatre mois imposé par la date du salon de la Tech Verte. Ces deux contraintes réduisent les marges de manœuvre de l’équipe. Il est donc nécessaire de prioriser les fonctionnalités essentielles du MVP et de reporter les fonctionnalités secondaires. L’objectif est de respecter le budget et le délai tout en préservant la qualité des calculs d’empreinte carbone et leur conformité aux exigences ISO.&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="105" width="610" x="80" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
